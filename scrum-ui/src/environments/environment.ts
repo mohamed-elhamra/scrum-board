@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  scrumAppUrl: 'http://182.168.76.76:8081'
+  scrumAppUrl: 'http://192.168.76.76:8081'
 };
 
 /*
