@@ -16,7 +16,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/scrums")
 @RequiredArgsConstructor
-//@CrossOrigin(origins = "http://192.168.76.76:4200")
+@CrossOrigin(origins = "http://192.168.76.76:4200")
 public class ScrumController {
 
     private final ScrumService scrumService;
